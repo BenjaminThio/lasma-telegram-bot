@@ -1,0 +1,26 @@
+{
+  "1074283475_Calculator": {
+    "Query": "0.2\u00d7(23+23+16)",
+    "Answer": "12.4",
+    "Scientific": true,
+    "Inverse": false
+  },
+  "1074305401_Calculator": {
+    "Query": "5+55",
+    "Answer": "",
+    "Scientific": false,
+    "Inverse": false
+  },
+  "973284504_Calculator": {
+    "Query": "",
+    "Answer": "",
+    "Scientific": false,
+    "Inverse": false
+  },
+  "1097693877_Calculator": {
+    "Query": "555563225",
+    "Answer": "",
+    "Scientific": true,
+    "Inverse": false
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "1074305401_Sokoban": {
+    "Player": [
+      3,
+      3
+    ],
+    "Destinations": [
+      [
+        5,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "World": [
+      [
+        "\u2b1b\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f"
+      ],
+      [
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u2b1b\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u2b1b\ufe0f"
+      ],
+      [
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u274c",
+        "\u274c",
+        "\u2b1c\ufe0f",
+        "\u274c",
+        "\u2b1c\ufe0f"
+      ],
+      [
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\ud83e\udd21",
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f"
+      ],
+      [
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\u2b1c\ufe0f",
+        "\ud83d\udce6",
+        "\ud83d\udce6",
+        "\u2b1c\ufe0f",
+        "\ud83d\udce6"
+      ]
+    ]
+  }
+}

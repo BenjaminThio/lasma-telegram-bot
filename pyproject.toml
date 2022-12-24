@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "lasma-studio"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+python-telegram-bot = "^13.8.1"
+Flask = "^2.0.2"
+youtube-transcript-api = "^0.4.2"
+gTTS = "^2.2.3"
+PyDictionary = "^2.0.1"
+pytz = "^2021.3"
+pytube = "^12.0.0"
+SpeechRecognition = "^3.8.1"
+pydub = "^0.25.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
